@@ -1,0 +1,53 @@
+
+body {
+    max-width: 970px;
+    margin: auto;
+    background-color: springgreen;
+}
+
+img {
+    border-style: dotted;
+    border-width: 10px;
+    border-color: tomato;
+
+}
+
+h1 {
+    color: orchid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: royalblue;
+}
+
+thead {
+    background-color: saddlebrown;
+}
+
+tbody {
+    background-color: sandybrown;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+li {
+    font-style: oblique;
+    font-weight: bold;
+    color: yellow;
+}
+
+form {
+    background-color: turquoise;
+    text-align: center;
+}
+
+p {
+    color: wheat;
+    text-align: center;
+    background-color: olivedrab;
+    border-radius: 40px;
+}
